@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oKMNA2iHWWdLGepcN1HxCqHPe+cDbkZiyPictjrhEoB+KqmwlChDiboNSWkFPGAU8SiWCUVQohrosZE3mxytPg==",
+  "dgSpecHash": "Ann1o/+OulssOqVCiGZoSea1yfnVpNXeyZYHULYfIQ7UdtkwbA7MZei9rLuYkiu4SsFThi0JnZSNpGhlD+Ynig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Mvc\\IsKapisi.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Mvc\\IsKapisi.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Melisa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Melisa\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.15\\microsoft.data.sqlite.core.7.0.15.nupkg.sha512",

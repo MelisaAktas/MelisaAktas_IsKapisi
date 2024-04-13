@@ -9,3 +9,15 @@ C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj
 C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\refint\IsKapisi.Core.dll
 C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.pdb
 C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\ref\IsKapisi.Core.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\bin\Debug\net7.0\IsKapisi.Core.deps.json
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\bin\Debug\net7.0\IsKapisi.Core.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\bin\Debug\net7.0\IsKapisi.Core.pdb
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.AssemblyInfoInputs.cache
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.AssemblyInfo.cs
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.sourcelink.json
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\refint\IsKapisi.Core.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.pdb
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\ref\IsKapisi.Core.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IsKapisi.Mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85957dbe6aa1deb64517e45c112c682ad46e03dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("IsKapisi.Mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IsKapisi.Mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

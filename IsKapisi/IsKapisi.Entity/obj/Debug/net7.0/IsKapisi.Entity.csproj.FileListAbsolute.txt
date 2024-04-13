@@ -9,3 +9,15 @@ C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\o
 C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\refint\IsKapisi.Entity.dll
 C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\IsKapisi.Entity.pdb
 C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\ref\IsKapisi.Entity.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\bin\Debug\net7.0\IsKapisi.Entity.deps.json
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\bin\Debug\net7.0\IsKapisi.Entity.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\bin\Debug\net7.0\IsKapisi.Entity.pdb
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\IsKapisi.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\IsKapisi.Entity.AssemblyInfoInputs.cache
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\IsKapisi.Entity.AssemblyInfo.cs
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\IsKapisi.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\IsKapisi.Entity.sourcelink.json
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\IsKapisi.Entity.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\refint\IsKapisi.Entity.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\IsKapisi.Entity.pdb
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\obj\Debug\net7.0\ref\IsKapisi.Entity.dll

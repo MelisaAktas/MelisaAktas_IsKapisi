@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nnSgfsSEa1/mdLwNK1hGisyS/2fKLV1MMDl0eE3AO4yJnUQ/eKnwgtAvkWlMSfVgZdgkA4nUOtgNyJER0XgpBg==",
+  "dgSpecHash": "LI03HHtY+lwbiPzq279MU7ws4LPrEO7DB/5S9iB/BU1u/0GygXKxHCHj+Y2VotgNBxv/q0kc1pSG5c677j0VUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Business\\IsKapisi.Business.csproj",
+  "projectFilePath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Business\\IsKapisi.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Melisa\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.15\\microsoft.data.sqlite.core.7.0.15.nupkg.sha512",
     "C:\\Users\\Melisa\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.15\\microsoft.entityframeworkcore.7.0.15.nupkg.sha512",

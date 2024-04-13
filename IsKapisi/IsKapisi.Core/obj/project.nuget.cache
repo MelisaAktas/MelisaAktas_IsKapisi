@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fASPk/OTlLSUeeQb5UYyw7dYqJWqkT02+PWXVNs2zKmDOO1rnprhc7XZIUv3F5UAjMzIpPpIDA5UxAsXLkoncA==",
+  "dgSpecHash": "Z2DrDjl7pEZ9DcLxh4dr7Ax0OGqpbfh1B9sU20ENUQFZGHNSG7xqWq/tkBEYgs2wZOGaeXYuRpaKrW9yEgKV+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Core\\IsKapisi.Core.csproj",
+  "projectFilePath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Core\\IsKapisi.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Melisa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\Melisa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
