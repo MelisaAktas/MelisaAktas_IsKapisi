@@ -1,5 +1,7 @@
 ﻿using IsKapisi.Data.Config;
 using IsKapisi.Entity;
+
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace IsKapisi.Data
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext: DbContext
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {

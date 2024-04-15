@@ -15,21 +15,55 @@ C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj
 C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\ref\IsKapisi.Data.dll
 C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.runtimeconfig.json
 C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.genruntimeconfig.cache
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.deps.json
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.runtimeconfig.json
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.dll
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.pdb
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Entity.dll
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Entity.pdb
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.AssemblyReference.cache
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.AssemblyInfoInputs.cache
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.AssemblyInfo.cs
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.CoreCompileInputs.cache
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.sourcelink.json
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.CopyComplete
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.dll
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\refint\IsKapisi.Data.dll
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.pdb
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.genruntimeconfig.cache
-C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\ref\IsKapisi.Data.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.deps.json
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.runtimeconfig.json
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.pdb
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Entity.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Entity.pdb
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.AssemblyReference.cache
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.AssemblyInfoInputs.cache
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.AssemblyInfo.cs
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.sourcelink.json
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.CopyComplete
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\refint\IsKapisi.Data.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.pdb
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.genruntimeconfig.cache
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\ref\IsKapisi.Data.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.deps.json
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.runtimeconfig.json
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.pdb
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Entity.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Entity.pdb
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.AssemblyReference.cache
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.AssemblyInfoInputs.cache
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.AssemblyInfo.cs
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.CopyComplete
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\refint\IsKapisi.Data.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.pdb
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.genruntimeconfig.cache
+C:\Users\Melisa\Desktop\Yeni klasör (3)\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\ref\IsKapisi.Data.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.deps.json
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.runtimeconfig.json
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Data.pdb
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Entity.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\bin\Debug\net7.0\IsKapisi.Entity.pdb
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.AssemblyReference.cache
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.AssemblyInfoInputs.cache
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.AssemblyInfo.cs
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.csproj.CopyComplete
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\refint\IsKapisi.Data.dll
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.pdb
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\IsKapisi.Data.genruntimeconfig.cache
+C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Data\obj\Debug\net7.0\ref\IsKapisi.Data.dll

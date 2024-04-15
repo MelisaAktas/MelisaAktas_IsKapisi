@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj": {}
+    "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj": {
+    "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj",
         "projectName": "IsKapisi.Entity",
-        "projectPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj",
+        "projectPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj",
         "packagesPath": "C:\\Users\\Melisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\obj\\",
+        "outputPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Melisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

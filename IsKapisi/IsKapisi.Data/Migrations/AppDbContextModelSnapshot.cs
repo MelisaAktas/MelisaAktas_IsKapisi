@@ -58,55 +58,55 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9489),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3960),
                             Description = "Eğitim Kategorisi",
                             IsActive = true,
                             IsDelete = false,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9504),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3977),
                             Name = "Öğretmen",
                             Url = "ogretmen"
                         },
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9510),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3982),
                             Description = "Hukuk",
                             IsActive = true,
                             IsDelete = false,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9510),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3983),
                             Name = "Avukat",
                             Url = "avukat"
                         },
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9512),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3984),
                             Description = "Bilgi İşlem",
                             IsActive = true,
                             IsDelete = false,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9512),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3984),
                             Name = "Yazılım Geliştirme Uzmanı",
                             Url = "yazilim-geliştirme-uzmani"
                         },
                         new
                         {
                             Id = 4,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9513),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3985),
                             Description = "İnsan Kaynaklari Uzmani",
                             IsActive = true,
                             IsDelete = false,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9514),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3986),
                             Name = "İnsan Kaynaklari Uzmanı",
                             Url = "insan-kaynaklari-uzmani"
                         },
                         new
                         {
                             Id = 5,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9515),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3987),
                             Description = "Developer",
                             IsActive = true,
                             IsDelete = false,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 832, DateTimeKind.Local).AddTicks(9515),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(3987),
                             Name = "Back-End Developer",
                             Url = "back-end-developer"
                         });
@@ -194,6 +194,117 @@ namespace IsKapisi.Data.Migrations
                         });
                 });
 
+            modelBuilder.Entity("IsKapisi.Entity.Identity.Role", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ConcurrencyStamp")
+                        .IsConcurrencyToken()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Name")
+                        .HasMaxLength(256)
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("NormalizedName")
+                        .HasMaxLength(256)
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NormalizedName")
+                        .IsUnique()
+                        .HasDatabaseName("RoleNameIndex");
+
+                    b.ToTable("AspNetRoles", (string)null);
+                });
+
+            modelBuilder.Entity("IsKapisi.Entity.Identity.User", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("AccessFailedCount")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Address")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("City")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ConcurrencyStamp")
+                        .IsConcurrencyToken()
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime?>("DateOfBirth")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Email")
+                        .HasMaxLength(256)
+                        .HasColumnType("TEXT");
+
+                    b.Property<bool>("EmailConfirmed")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("FirstName")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Gender")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("LastName")
+                        .HasColumnType("TEXT");
+
+                    b.Property<bool>("LockoutEnabled")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<DateTimeOffset?>("LockoutEnd")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("NormalizedEmail")
+                        .HasMaxLength(256)
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("NormalizedUserName")
+                        .HasMaxLength(256)
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("PasswordHash")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("TEXT");
+
+                    b.Property<bool>("PhoneNumberConfirmed")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("SecurityStamp")
+                        .HasColumnType("TEXT");
+
+                    b.Property<bool>("TwoFactorEnabled")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("UserName")
+                        .HasMaxLength(256)
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NormalizedEmail")
+                        .HasDatabaseName("EmailIndex");
+
+                    b.HasIndex("NormalizedUserName")
+                        .IsUnique()
+                        .HasDatabaseName("UserNameIndex");
+
+                    b.ToTable("AspNetUsers", (string)null);
+                });
+
             modelBuilder.Entity("IsKapisi.Entity.Job", b =>
                 {
                     b.Property<int>("Id")
@@ -243,12 +354,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(363),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4836),
                             ImageUrl = "1.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = true,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(365),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4838),
                             Name = "Kimya Öğretmeni",
                             Properties = "Deneyimli Öğretmen",
                             Url = "kimya-ogretmen"
@@ -256,12 +367,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(372),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4845),
                             ImageUrl = "2.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = false,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(373),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4846),
                             Name = "İnsan Kaynakları Uzmanı",
                             Properties = " En az 3 yıl tecrübeli",
                             Url = "insan-kaynaklari-uzmani"
@@ -269,12 +380,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(374),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4847),
                             ImageUrl = "3.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = true,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(375),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4848),
                             Name = "Kıdemli Avukat",
                             Properties = "Deneyimi 5 - 10 yıl arası",
                             Url = "avukat"
@@ -282,12 +393,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 4,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(376),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4849),
                             ImageUrl = "4.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = true,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(377),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4850),
                             Name = "Yazılım Destek Elemanı",
                             Properties = "Tecrübeli/Tecrübesiz",
                             Url = "yazilim-destek-uzmani"
@@ -295,12 +406,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 5,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(378),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4851),
                             ImageUrl = "5.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = true,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(378),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4851),
                             Name = "Backend Developer (İstanbul-Ankara-İzmir)",
                             Properties = "  En az 3 yıl deneyimli,",
                             Url = "back-end-gelistirici"
@@ -308,12 +419,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 6,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(380),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4853),
                             ImageUrl = "6.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = false,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(380),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4853),
                             Name = "React Front-End Geliştirici",
                             Properties = "2 - 6 yıl arası",
                             Url = "react-front-end"
@@ -321,12 +432,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 7,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(381),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4854),
                             ImageUrl = "7.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = true,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(382),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4855),
                             Name = "React Native Developer",
                             Properties = "En az 3 yıl deneyimli",
                             Url = "react-native"
@@ -334,12 +445,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 8,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(383),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4856),
                             ImageUrl = "8.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = false,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(383),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4856),
                             Name = "Data Science Professionals - Discovery (İstanbul, Ankara, İzmir)",
                             Properties = "Uzman",
                             Url = "data-science"
@@ -347,12 +458,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 9,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(385),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4858),
                             ImageUrl = "9.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = true,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(385),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4858),
                             Name = "İdari İşler Profesyonelleri ",
                             Properties = "Minimum 7 yıl idari işler alanında deneyimli",
                             Url = "idari-isler"
@@ -360,12 +471,12 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 10,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(386),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4859),
                             ImageUrl = "10.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = true,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(387),
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4860),
                             Name = "Front-end Developer ",
                             Properties = "Minimum 7 yıl react üzerinde çalışmış",
                             Url = "idari-isler"
@@ -373,16 +484,118 @@ namespace IsKapisi.Data.Migrations
                         new
                         {
                             Id = 11,
-                            CreatedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(388),
+                            CreatedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4861),
                             ImageUrl = "11.png",
                             IsActive = true,
                             IsDelete = false,
                             IsHome = true,
-                            ModifiedDate = new DateTime(2024, 4, 8, 3, 22, 42, 833, DateTimeKind.Local).AddTicks(389),
-                            Name = "Müzük Öğretmeni",
+                            ModifiedDate = new DateTime(2024, 4, 14, 21, 54, 3, 903, DateTimeKind.Local).AddTicks(4861),
+                            Name = "Müzik Öğretmeni",
                             Properties = "En az 10 yıl tecrübeli",
                             Url = "muzik-ogretmen"
                         });
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("ClaimType")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ClaimValue")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("RoleId")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RoleId");
+
+                    b.ToTable("AspNetRoleClaims", (string)null);
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("ClaimType")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ClaimValue")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("AspNetUserClaims", (string)null);
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
+                {
+                    b.Property<string>("LoginProvider")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ProviderKey")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ProviderDisplayName")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("LoginProvider", "ProviderKey");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("AspNetUserLogins", (string)null);
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserRole<string>", b =>
+                {
+                    b.Property<string>("UserId")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("RoleId")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("UserId", "RoleId");
+
+                    b.HasIndex("RoleId");
+
+                    b.ToTable("AspNetUserRoles", (string)null);
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
+                {
+                    b.Property<string>("UserId")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("LoginProvider")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Value")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("UserId", "LoginProvider", "Name");
+
+                    b.ToTable("AspNetUserTokens", (string)null);
                 });
 
             modelBuilder.Entity("IsKapisi.Entity.CategoryJob", b =>
@@ -402,6 +615,57 @@ namespace IsKapisi.Data.Migrations
                     b.Navigation("Category");
 
                     b.Navigation("Job");
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
+                {
+                    b.HasOne("IsKapisi.Entity.Identity.Role", null)
+                        .WithMany()
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
+                {
+                    b.HasOne("IsKapisi.Entity.Identity.User", null)
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
+                {
+                    b.HasOne("IsKapisi.Entity.Identity.User", null)
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserRole<string>", b =>
+                {
+                    b.HasOne("IsKapisi.Entity.Identity.Role", null)
+                        .WithMany()
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("IsKapisi.Entity.Identity.User", null)
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
+                {
+                    b.HasOne("IsKapisi.Entity.Identity.User", null)
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("IsKapisi.Entity.Category", b =>

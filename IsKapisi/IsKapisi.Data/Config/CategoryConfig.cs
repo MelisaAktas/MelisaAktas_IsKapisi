@@ -43,127 +43,47 @@ namespace IsKapisi.Data.Config
                         Id = 1,
                         Name = "Öğretmen",
                         Description = "Eğitim Kategorisi",
-                        Url = "ogretmen"
+                        Url = "ogretmen",
+                        
                     },
                     new Category
                     {
                         Id = 2,
                         Name = "Avukat",
                         Description = "Hukuk",
-                        Url = "avukat"
+                        Url = "avukat",
+                        
+
                     },
                     new Category
                     {
                         Id = 3,
                         Name = "Yazılım Geliştirme Uzmanı",
                         Description = "Bilgi İşlem",
-                        Url = "yazilim-geliştirme-uzmani"
+                        Url = "yazilim-geliştirme-uzmani",
+                        
                     },
                     new Category
                     {
                         Id = 4,
                         Name = "İnsan Kaynaklari Uzmanı",
                         Description = "İnsan Kaynaklari Uzmani",
-                        Url = "insan-kaynaklari-uzmani"
+                        Url = "insan-kaynaklari-uzmani",
+                   
+
                     },
                     new Category
                     {
                         Id = 5,
                         Name = "Back-End Developer",
                         Description = "Developer",
-                        Url = "back-end-developer"
+                        Url = "back-end-developer",
+                      
+
                     }
                 );
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            // builder hoca
-            //.HasData(
-            //    new Category 
-            //    {
-            //        Id = 1,
-            //        Name = "Televizyon",
-            //        Description = "TV kategorisi",
-            //        Url = "televizyon"
-            //    },
-            //    new Category
-            //    {
-            //        Id = 2,
-            //        Name = "Bilgisayar",
-            //        Description = "Bilgisayar kategorisi",
-            //        Url = "bilgisayar"
-            //    },
-            //    new Category
-            //    {
-            //        Id = 3,
-            //        Name = "Elektronik Eşya",
-            //        Description = "Elektronik Eşya kategorisi",
-            //        Url = "elektronik-esya"
-            //    },
-            //    new Category
-            //    {
-            //        Id = 4,
-            //        Name = "Beyaz Eşya",
-            //        Description = "Beyaz Eşya kategorisi",
-            //        Url = "beyaz-esya"
-            //    },
-            //    new Category
-            //    {
-            //        Id = 5,
-            //        Name = "Telefon",
-            //        Description = "Telefon kategorisi",
-            //        Url = "telefon"
-            //    }
-            //);
-
-            //builder  benim
-            // .HasData(
-            //    new Category
-            //    {
-            //        Id = 1,
-            //        Name = "Öğretmen",
-            //        Description = "Eğitim",
-            //        Url = "ogretmen"
-            //    },
-            //    new Category
-            //    {
-            //        Id = 2,
-            //        Name = "Avukat",
-            //        Description = "Hukuk",
-            //        Url = "avukat"
-            //    },
-            //    new Category
-            //    {
-            //        Id = 3,
-            //        Name = "Yazılım Geliştirme Uzmanı",
-            //        Description = "Bilgi İşlem",
-            //        Url = "yazılım-geliştirme-uzmanı"
-            //    },
-            //    new Category
-            //    {
-            //        Id = 4,
-            //        Name = "İnsan Kaynakları Uzmanı",
-            //        Description = "İnsan Kaynakları",
-            //        Url = "insan-kaynalari-uzmani"
-            //    }
-
-            //    );
 
         }
     }

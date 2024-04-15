@@ -17,16 +17,7 @@ namespace IsKapisi.Data.Config
            builder.HasKey(x => new { x.CategoryId, x.JobId });
             builder.ToTable("CategoryJob");
             builder.HasData(
-                //new CategoryJob { JobId = 1, CategoryId = 1 },
-                //new CategoryJob { JobId = 2, CategoryId = 3 },
-                //new CategoryJob { JobId = 4, CategoryId = 2 },
-                //new CategoryJob { JobId = 3, CategoryId = 4 },
-                //new CategoryJob { JobId = 3, CategoryId = 5 },
-                //new CategoryJob { JobId = 3, CategoryId = 6 },
-                //new CategoryJob { JobId = 3, CategoryId = 7 },
-                //new CategoryJob { JobId = 3, CategoryId = 8 },
-                //new CategoryJob { JobId = 3, CategoryId = 9 },
-                //new CategoryJob { JobId = 3, CategoryId = 10 }
+               
 
                 new CategoryJob { JobId = 1, CategoryId = 1 },
 

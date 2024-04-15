@@ -15,6 +15,10 @@ builder.Services.AddScoped<IJobRepository, JobRepository>();
 
 
 
+    
+
+
+
 var app = builder.Build();
 
 
@@ -30,7 +34,15 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
+
 app.UseAuthorization();
+app.MapAreaControllerRoute(
+    name: "Admin",
+    areaName: "Admin",
+    pattern: "admin/{controller=Home}/{action=Index}/{id?}"
+    );
+
 
 app.MapControllerRoute(
     name: "default",

@@ -18,4 +18,8 @@
     <ProjectReference Include="..\IsKapisi.Entity\IsKapisi.Entity.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Concrete\Context\" />
+  </ItemGroup>
+
 </Project>

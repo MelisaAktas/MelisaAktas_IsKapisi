@@ -18,6 +18,7 @@ namespace IsKapisi.Business.Abstract
         void Update(JobViewModel model);
         void HardDelete(JobViewModel model);
         void SoftDelete(JobViewModel model);
-
+        void HardDelete(int id);
+        void SoftDelete(int id);
     }
 }

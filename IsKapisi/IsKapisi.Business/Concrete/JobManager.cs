@@ -23,7 +23,21 @@ namespace IsKapisi.Business.Concrete
 
         public void Create(JobViewModel model)
         {
-            throw new NotImplementedException();
+            var job = new Job
+            {
+                Name = model.Name,
+               
+                Properties = model.Properties,
+                Url = model.Url,
+                ImageUrl = model.ImageUrl,
+                CreatedDate = DateTime.Now,
+                ModifiedDate = DateTime.Now,
+                IsActive = true,
+                IsHome = model.IsHome
+
+
+            };
+            _jobRepository.Create(job);
         }
 
         public List<JobViewModel> GetAll(bool? isHome = null, bool? isActive = null, bool? isDelete = null)
@@ -31,7 +45,16 @@ namespace IsKapisi.Business.Concrete
             List<Job> jobs;
             if (isHome == null)
             {
-                jobs = _jobRepository.GetAll();
+                if (isDelete == null)
+                {
+                    jobs = _jobRepository.GetAll();
+                }
+                else
+                {
+                    jobs = _jobRepository.GetDeletedJobs(isDelete);
+                }
+
+
             }
             else
             {
@@ -53,7 +76,22 @@ namespace IsKapisi.Business.Concrete
 
         public JobViewModel GetById(int id)
         {
-            throw new NotImplementedException();
+            Job job = _jobRepository.GetById(id);
+            JobViewModel jobViewModel = new JobViewModel
+            {
+                Id = job.Id,
+                Name = job.Name,           
+                Url = job.Url,
+                ImageUrl = job.ImageUrl,
+                Properties = job.Properties
+            };
+            return jobViewModel;
+        }
+
+        public void HardDelete(int id)
+        {
+            Job deletedJob = _jobRepository.GetById(id);
+            _jobRepository.HardDelete(deletedJob);
         }
 
         public void HardDelete(JobViewModel model)
@@ -66,9 +104,23 @@ namespace IsKapisi.Business.Concrete
             throw new NotImplementedException();
         }
 
+        public void SoftDelete(int id)
+        {
+            Job deletedProduct = _jobRepository.GetById(id);
+            deletedProduct.IsDelete = !deletedProduct.IsDelete;
+            _jobRepository.SoftDelete(deletedProduct);
+        }
+
         public void Update(JobViewModel model)
         {
-            throw new NotImplementedException();
+           Job editedJob = _jobRepository.GetById(model.Id);
+            editedJob.Name = model.Name;
+       
+            editedJob.Url = model.Url;
+            editedJob.ImageUrl = model.ImageUrl;
+            editedJob.Properties = model.Properties;
+            editedJob.IsHome = model.IsHome;
+            _jobRepository.Update(editedJob);
         }
     }
 }

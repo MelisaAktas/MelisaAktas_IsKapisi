@@ -12,5 +12,8 @@ namespace IsKapisi.Data.Abstract
         List<Job> GetProductsByCategoryId(int categoryId);
         List<Job> GetHomePageProducts(bool? isHome);
 
+        List<Job>GetDeletedJobs(bool? isDeleted);
+
+
     }
 }

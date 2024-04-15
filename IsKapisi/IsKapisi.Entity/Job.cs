@@ -21,7 +21,9 @@ namespace IsKapisi.Entity
         public string Properties { get; set; }
         public bool IsHome { get; set; } 
         public string ImageUrl { get; set; }
-        
+
+      
+
 
         public List<CategoryJob> CategoryJobs { get; set; }
 

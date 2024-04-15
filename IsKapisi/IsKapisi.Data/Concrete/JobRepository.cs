@@ -23,6 +23,26 @@ namespace IsKapisi.Data.Concrete
             }
         }
 
+        public List<Job> DeletedProducts(bool? isDeleted)
+        {
+
+            var jobs = AppContext
+                .Jobs
+                .Where(p => p.IsDelete == isDeleted)
+                .ToList();
+            return jobs;
+        }
+
+        public List<Job> GetDeletedJobs(bool? isDeleted)
+        {
+
+            var jobs = AppContext
+                .Jobs
+                .Where(p => p.IsDelete == isDeleted)
+                .ToList();
+            return jobs;
+        }
+
         public List<Job> GetHomePageProducts(bool? isHome)
         {
             var jobs = AppContext

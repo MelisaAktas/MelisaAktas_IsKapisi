@@ -18,7 +18,8 @@ namespace IsKapisi.Data.Concrete
         }
         public void Create(TEntity entity)
         {
-            throw new NotImplementedException();
+            _dbContext.Set<TEntity>().Add(entity);
+            _dbContext.SaveChanges();
         }
 
         public List<TEntity> GetAll()
@@ -29,22 +30,25 @@ namespace IsKapisi.Data.Concrete
 
         public TEntity GetById(int id)
         {
-            throw new NotImplementedException();
+            TEntity entity = _dbContext.Set<TEntity>().Find(id);
+            return entity;
         }
 
         public void HardDelete(TEntity entity)
         {
-            throw new NotImplementedException();
+            _dbContext.Set<TEntity>().Remove(entity);
+            _dbContext.SaveChanges();
         }
 
         public void SoftDelete(TEntity entity)
         {
-            throw new NotImplementedException();
+            Update(entity);
         }
 
         public void Update(TEntity entity)
         {
-            throw new NotImplementedException();
+            _dbContext.Set<TEntity>().Update(entity);
+            _dbContext.SaveChanges();
         }
     }
 }
