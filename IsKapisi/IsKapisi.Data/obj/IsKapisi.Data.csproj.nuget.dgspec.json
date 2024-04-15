@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Data\\IsKapisi.Data.csproj": {}
+    "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Data\\IsKapisi.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Data\\IsKapisi.Data.csproj": {
+    "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Data\\IsKapisi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Data\\IsKapisi.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Data\\IsKapisi.Data.csproj",
         "projectName": "IsKapisi.Data",
-        "projectPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Data\\IsKapisi.Data.csproj",
+        "projectPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Data\\IsKapisi.Data.csproj",
         "packagesPath": "C:\\Users\\Melisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Data\\obj\\",
+        "outputPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Melisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj": {
-                "projectPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj"
+              "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj": {
+                "projectPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj": {
+    "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj",
         "projectName": "IsKapisi.Entity",
-        "projectPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj",
+        "projectPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\IsKapisi.Entity.csproj",
         "packagesPath": "C:\\Users\\Melisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Entity\\obj\\",
+        "outputPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Melisa\\AppData\\Roaming\\NuGet\\NuGet.Config",

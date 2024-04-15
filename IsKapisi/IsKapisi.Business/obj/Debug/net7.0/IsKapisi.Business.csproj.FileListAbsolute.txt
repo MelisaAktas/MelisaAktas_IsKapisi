@@ -75,3 +75,4 @@ C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Business\obj\
 C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Business\obj\Debug\net7.0\refint\IsKapisi.Business.dll
 C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Business\obj\Debug\net7.0\IsKapisi.Business.pdb
 C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Business\obj\Debug\net7.0\ref\IsKapisi.Business.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Business\obj\Debug\net7.0\IsKapisi.Business.sourcelink.json

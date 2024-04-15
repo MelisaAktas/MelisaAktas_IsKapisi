@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IsKapisi.Entity
-build_property.ProjectDir = C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Entity\
+build_property.ProjectDir = C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Entity\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

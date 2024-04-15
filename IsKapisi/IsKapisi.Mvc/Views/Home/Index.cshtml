@@ -155,7 +155,10 @@
                                         <img src="~/img/brand/@p.ImageUrl" />
                                     </div>
                                     <div class="jobs_conetent">
-                                        <a href="job_details.html"><h4>@p.Name</h4></a>
+                                        <a asp-area=""
+                                           asp-controller="Home"
+                                           asp-action="GetById"
+                                           asp-route-id="@p.Id"><h4>@p.Name</h4></a>
                                         <div class="links_locat d-flex align-items-center">
                                             <div class="location">
                                                 <p> <i class="fa fa-map-marker"></i> @p.Properties</p>
@@ -200,7 +203,13 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="brouse_job text-right">
-                        <a href="jobs.html" class="boxed-btn4">Browse More Job</a>
+                        <a 
+                            asp-area=""
+                            asp-action="MoreJob"
+                            asp-controller="Home"
+                           
+                            
+                            class="boxed-btn4">Daha Fazla İş İlanı</a>
                     </div>
                 </div>
             </div>
@@ -217,7 +226,10 @@
                                 <div class="">
                                     <img src="~/img/joblogo/@p.ImageUrl" />
                                 </div>
-                                <a href="jobs.html"><h3>@p.Name</h3></a>
+                                <a asp-area=""
+                                   asp-controller="Home"
+                                   asp-action="GetById"
+                                   asp-route-id="@p.Id"><h3>@p.Name</h3></a>
                                 <p>  @p.Properties</p>
                             </div>
                         </div>
@@ -241,7 +253,11 @@
                     <div class="searching_text">
                         <h3>İş mi Arıyorsunuz?</h3>
                         <p>Yesi bir kariyer fırsatı mı arıyorsunuz? İş Kapısı sitesi sizin için en uygun pozisyonu bulmanıza yardımcı olabilir!" </p>
-                        <a href="#" class="boxed-btn3">İş İlanları</a>
+                        <a asp-area=""
+                           asp-action="MoreJob"
+                           asp-controller="Home"
+                            
+                            class="boxed-btn3">İş İlanları</a>
                     </div>
                 </div>
                 <div class="col-lg-5 offset-lg-1 col-md-6">

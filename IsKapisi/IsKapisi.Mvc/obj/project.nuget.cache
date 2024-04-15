@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lOxdHtX/L4L8EZBQcNDBx9uZy+kn8PlP0WvO496EiyULiopHc98HyeNLIfGh6fXxcHIOCpMatU8obitthYyB9w==",
+  "dgSpecHash": "aCa/kXSCLlKUj3O6PcS/uaOoU5lVYPm4YA3WNB9qBvLUy/CygqS/jyZqw+wWdTFb0Xb1PykzDw306j11I/iO1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Mvc\\IsKapisi.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Mvc\\IsKapisi.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Melisa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Melisa\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

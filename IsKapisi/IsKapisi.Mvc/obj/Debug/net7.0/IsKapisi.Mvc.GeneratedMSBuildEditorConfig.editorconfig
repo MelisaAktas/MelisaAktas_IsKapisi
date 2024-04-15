@@ -9,131 +9,131 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IsKapisi.Mvc
 build_property.RootNamespace = IsKapisi.Mvc
-build_property.ProjectDir = C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Mvc\
+build_property.ProjectDir = C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Mvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Mvc
+build_property.MSBuildProjectDirectory = C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Home/Create.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Home/Delete.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Home/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Home/Edit.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Home/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Job/Index.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Job/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSm9iXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/DataTablesJSPartial.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/DataTablesJSPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXERhdGFUYWJsZXNKU1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/Error.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_DataTablesCssPartial.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_DataTablesCssPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9EYXRhVGFibGVzQ3NzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_DataTablesJsPartial.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_DataTablesJsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9EYXRhVGFibGVzSnNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_MenuPartial.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_MenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9NZW51UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Account/Register.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Home/Blog.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Home/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Home/Blogs.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Home/Blogs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9ncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Home/Contact.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Home/GetById.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Home/GetById.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRCeUlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Home/Index.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Home/MoreJob.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Home/MoreJob.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3JlSm9iLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Home/Privacy.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Shared/Error.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Shared/_Footer.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Shared/_MenuPartial.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Shared/_MenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/SingleBlog/Index.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/SingleBlog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZ2xlQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/_ViewImports.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/_ViewStart.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6lx5as6t46
 
-[C:/Users/Melisa/Desktop/Yeni klasör (3) - Kopya/IsKapisi/IsKapisi.Mvc/Views/Shared/_Layout.cshtml]
+[C:/Users/Melisa/Documents/GitHub/MelisaAktas_IsKapisi/IsKapisi/IsKapisi.Mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4y8aex5jz3

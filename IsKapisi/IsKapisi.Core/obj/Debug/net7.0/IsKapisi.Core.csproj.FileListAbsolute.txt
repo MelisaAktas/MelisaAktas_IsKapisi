@@ -43,3 +43,4 @@ C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Core\obj\Debu
 C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\refint\IsKapisi.Core.dll
 C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.pdb
 C:\Users\Melisa\Desktop\Yeni klasör (3) - Kopya\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\ref\IsKapisi.Core.dll
+C:\Users\Melisa\Documents\GitHub\MelisaAktas_IsKapisi\IsKapisi\IsKapisi.Core\obj\Debug\net7.0\IsKapisi.Core.sourcelink.json

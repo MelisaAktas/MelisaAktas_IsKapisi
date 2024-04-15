@@ -10869,11 +10869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Mvc\\IsKapisi.Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Mvc\\IsKapisi.Mvc.csproj",
       "projectName": "IsKapisi.Mvc",
-      "projectPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Mvc\\IsKapisi.Mvc.csproj",
+      "projectPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Mvc\\IsKapisi.Mvc.csproj",
       "packagesPath": "C:\\Users\\Melisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Mvc\\obj\\",
+      "outputPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Melisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10890,11 +10890,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Business\\IsKapisi.Business.csproj": {
-              "projectPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Business\\IsKapisi.Business.csproj"
+            "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Business\\IsKapisi.Business.csproj": {
+              "projectPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Business\\IsKapisi.Business.csproj"
             },
-            "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Core\\IsKapisi.Core.csproj": {
-              "projectPath": "C:\\Users\\Melisa\\Desktop\\Yeni klasör (3) - Kopya\\IsKapisi\\IsKapisi.Core\\IsKapisi.Core.csproj"
+            "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Core\\IsKapisi.Core.csproj": {
+              "projectPath": "C:\\Users\\Melisa\\Documents\\GitHub\\MelisaAktas_IsKapisi\\IsKapisi\\IsKapisi.Core\\IsKapisi.Core.csproj"
             }
           }
         }
